@@ -1,3 +1,4 @@
 Alur Belajar Javasript
 -Pengertian Javascript
 -Pengenalan console log
+-Penulisan kode Javascript dengan Embed, Javascript Inline, Javascript External
