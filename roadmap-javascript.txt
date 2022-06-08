@@ -2,3 +2,5 @@ Alur Belajar Javasript
 -Pengenalan console log
 -Penulisan kode Javascript dengan Embed, Javascript Inline, Javascript External
 -Variabel dan tipe data
+-Mengenal DOM API untuk Manipulasi HTML
+-Blok Percabangan pada Javascript
