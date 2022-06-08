@@ -3,4 +3,5 @@ Alur Belajar Javasript
 -Penulisan kode Javascript dengan Embed, Javascript Inline, Javascript External
 -Variabel dan tipe data
 -Mengenal DOM API untuk Manipulasi HTML
--Blok Percabangan pada Javascript
+-Mengenal Jendela Dialog (Alert, Promp, Confirm)
+
