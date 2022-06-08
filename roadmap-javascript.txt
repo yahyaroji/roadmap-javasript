@@ -4,3 +4,4 @@ Alur Belajar Javasript
 -Variabel dan tipe data
 -Mengenal DOM API untuk Manipulasi HTML
 -Mengenal Jendela Dialog (Alert, Promp, Confirm)
+
